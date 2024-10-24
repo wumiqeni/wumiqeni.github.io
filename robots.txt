@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://wumiqeni.github.io/sitemap/sitemap_index.wumiqeni
+Sitemap: https://wumiqeni.github.io/Xwn/sitemap_index.wumiqeni
+Sitemap: https://wumiqeni.github.io/rwM/sitemap_index.wumiqeni
+Sitemap: https://wumiqeni.github.io/dUR/sitemap_index.wumiqeni
+Sitemap: https://wumiqeni.github.io/NtW/sitemap_index.wumiqeni
+Sitemap: https://wumiqeni.github.io/blc/sitemap_index.wumiqeni
+Sitemap: https://wumiqeni.github.io/Jlr/sitemap_index.wumiqeni
+Sitemap: https://wumiqeni.github.io/emI/sitemap_index.wumiqeni
+Sitemap: https://wumiqeni.github.io/ouR/sitemap_index.wumiqeni
+Sitemap: https://wumiqeni.github.io/jAm/sitemap_index.wumiqeni
+Sitemap: https://wumiqeni.github.io/mjB/sitemap_index.wumiqeni
+Sitemap: https://wumiqeni.github.io/kng/sitemap_index.wumiqeni
+Sitemap: https://wumiqeni.github.io/bIp/sitemap_index.wumiqeni
+Sitemap: https://wumiqeni.github.io/BMU/sitemap_index.wumiqeni
+Sitemap: https://wumiqeni.github.io/tkn/sitemap_index.wumiqeni
+Sitemap: https://wumiqeni.github.io/lid/sitemap_index.wumiqeni
+Sitemap: https://wumiqeni.github.io/Byb/sitemap_index.wumiqeni
+Sitemap: https://wumiqeni.github.io/oea/sitemap_index.wumiqeni
+Sitemap: https://wumiqeni.github.io/RdB/sitemap_index.wumiqeni
+Sitemap: https://wumiqeni.github.io/Dum/sitemap_index.wumiqeni
+Sitemap: https://wumiqeni.github.io/CIP/sitemap_index.wumiqeni
